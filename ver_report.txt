@@ -1,0 +1,8 @@
+Monitor directory: /home/melon/PycharmProjects/sn/account
+Verification file: /home/melon/PycharmProjects/siv/verification.txt
+Report file: /home/melon/PycharmProjects/siv/ver_report.txt
+Directories: 3
+Files: 29
+Number of warnings: 0
+Execution time: 0.00648 seconds
+
